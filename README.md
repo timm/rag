@@ -1,5 +1,9 @@
 # to read
 
+
+![image](https://github.com/timm/rag/assets/29195/2addf46e-b658-4c51-8907-a6ada462f976)
+https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llms-relevant-and-current/
+
 ![image](https://github.com/timm/rag/assets/29195/69a0a703-95ca-4921-9436-a8e7e40f8220)
 
 
