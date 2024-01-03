@@ -7,4 +7,4 @@ Wed 3pm to 4:30pm
 - Haojie Zhou <hzhou33@ncsu.edu>
 - Teddy Xinyuan Chen xchen87@ncsu.edu
 - Priyam Shah <pshah9@ncsu.edu>
-- Varad Sawant   vsawant@ncsu.edu
+- <strike>Varad Sawant   vsawant@ncsu.edu</strike>
