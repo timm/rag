@@ -6,7 +6,7 @@ https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llm
 
 ![image](https://github.com/timm/rag/assets/29195/69a0a703-95ca-4921-9436-a8e7e40f8220)
 
-- [ ] Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman  
+- [ ] Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman   https://github.com/milesaturpin/cot-unfaithfulness/
 Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman
 - [ ] Huang, J., Gu, S. S., Hou, L., Wu, Y., Wang, X., Yu, H., & Han, J. (2022). Large language models can self-improve. arXiv preprint arXiv:2210.11610. https://arxiv.org/pdf/2210.11610.pdf]]%3E
 - [ ] Zhang, Z., Zhang, A., Li, M., Zhao, H., Karypis, G., & Smola, A. (2023). Multimodal chain-of-thought reasoning in language models. arXiv preprint arXiv:2302.00923. https://arxiv.org/pdf/2302.00923.pdf
