@@ -6,7 +6,6 @@ Wed 3pm to 4:30pm
 - Kewen Peng <kpeng@ncsu.edu>
 - Haojie Zhou <hzhou33@ncsu.edu>
 - Teddy Xinyuan Chen xchen87@ncsu.edu
-- Priyam Shah <pshah9@ncsu.edu>
 - <strike>Varad Sawant   vsawant@ncsu.edu</strike>
 - Lixing Zheng <lzheng26@ncsu.edu>
 - Lohith Senthilkumar lpanjal@ncsu.edu
