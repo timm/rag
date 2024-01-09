@@ -1,5 +1,7 @@
 # who  
 
+where: rm 3265
+
 Wed 3pm to 4:30pm
 
 - Tim Menzies timm@ieee.org
