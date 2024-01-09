@@ -8,7 +8,7 @@
 - others may need to bay $$$.
 
 
-Read the two ticked papers in README.md
+Read the three ticked papers in README.md
 - go back in time, find the prior stidies that inspired the followup (List them, maybe skim them, but only read if you ahve time)
 - for week2: round robin summariese a 1 page summary)
 
