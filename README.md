@@ -22,7 +22,7 @@ Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman
 - [X] Turpin, M., Michael, J., Perez, E., & Bowman, S. R. (2023). Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting. arXiv preprint arXiv:2305.04388. https://arxiv.org/pdf/2305.04388.pdf
   -  [X] Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman   https://github.com/milesaturpin/cot-unfaithfulness/
 - [ ] Lu, P., Mishra, S., Xia, T., Qiu, L., Chang, K. W., Zhu, S. C., ... & Kalyan, A. (2022). Learn to explain: Multimodal reasoning via thought chains for science question answering. Advances in Neural Information Processing Systems, 35, 2507-2521. https://proceedings.neurips.cc/paper_files/paper/2022/file/11332b6b6cf4485b84afadb1352d3a9a-Paper-Conference.pdf
-- [ ] Paranjape, B., Lundberg, S., Singh, S., Hajishirzi, H., Zettlemoyer, L., & Ribeiro, M. T. (2023). ART: Automatic multi-step reasoning and tool-use for large language models. arXiv preprint arXiv:2303.09014.
+- [x] Paranjape, B., Lundberg, S., Singh, S., Hajishirzi, H., Zettlemoyer, L., & Ribeiro, M. T. (2023). ART: Automatic multi-step reasoning and tool-use for large language models. arXiv preprint arXiv:2303.09014.
 https://arxiv.org/pdf/2303.09014.pdf
 - [ ] Shinn, N., Cassano, F., Gopinath, A., Narasimhan, K. R., & Yao, S. (2023, November). Reflexion: Language agents with verbal reinforcement learning. In Thirty-seventh Conference on Neural Information Processing Systems.
 https://arxiv.org/pdf/2303.11366.pdf
