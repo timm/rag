@@ -11,3 +11,4 @@ Wed 3pm to 4:30pm
 - <strike>Varad Sawant   vsawant@ncsu.edu</strike>
 - Lixing Zheng <lzheng26@ncsu.edu>
 - Lohith Senthilkumar lpanjal@ncsu.edu
+-  Tahreem Yasir tyasir@ncsu.edu
