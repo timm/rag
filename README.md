@@ -6,7 +6,7 @@ https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llm
 
 ![image](https://github.com/timm/rag/assets/29195/69a0a703-95ca-4921-9436-a8e7e40f8220)
 
-- [X] Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman   https://github.com/milesaturpin/cot-unfaithfulness/
+
 Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman
 - [ ] Huang, J., Gu, S. S., Hou, L., Wu, Y., Wang, X., Yu, H., & Han, J. (2022). Large language models can self-improve. arXiv preprint arXiv:2210.11610. https://arxiv.org/pdf/2210.11610.pdf]]%3E
 - [ ] Zhang, Z., Zhang, A., Li, M., Zhao, H., Karypis, G., & Smola, A. (2023). Multimodal chain-of-thought reasoning in language models. arXiv preprint arXiv:2302.00923. https://arxiv.org/pdf/2302.00923.pdf
@@ -20,6 +20,7 @@ Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman
 - [ ] Zhang, Zhuosheng, Aston Zhang, Mu Li, Hai Zhao, George Karypis, and Alex Smola. "Multimodal chain-of-thought reasoning in language models." arXiv preprint arXiv:2302.00923 (2023). https://arxiv.org/pdf/2302.00923.pdf
 - [ ] Suzgun, Mirac, Nathan Scales, Nathanael Schärli, Sebastian Gehrmann, Yi Tay, Hyung Won Chung, Aakanksha Chowdhery et al. "Challenging big-bench tasks and whether chain-of-thought can solve them." arXiv preprint arXiv:2210.09261 (2022). https://arxiv.org/pdf/2210.09261.pdf
 - [X] Turpin, M., Michael, J., Perez, E., & Bowman, S. R. (2023). Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting. arXiv preprint arXiv:2305.04388. https://arxiv.org/pdf/2305.04388.pdf
+  -  [X] Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman   https://github.com/milesaturpin/cot-unfaithfulness/
 - [ ] Lu, P., Mishra, S., Xia, T., Qiu, L., Chang, K. W., Zhu, S. C., ... & Kalyan, A. (2022). Learn to explain: Multimodal reasoning via thought chains for science question answering. Advances in Neural Information Processing Systems, 35, 2507-2521. https://proceedings.neurips.cc/paper_files/paper/2022/file/11332b6b6cf4485b84afadb1352d3a9a-Paper-Conference.pdf
 - [ ] Paranjape, B., Lundberg, S., Singh, S., Hajishirzi, H., Zettlemoyer, L., & Ribeiro, M. T. (2023). ART: Automatic multi-step reasoning and tool-use for large language models. arXiv preprint arXiv:2303.09014.
 https://arxiv.org/pdf/2303.09014.pdf
