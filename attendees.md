@@ -12,3 +12,4 @@ Wed 3pm to 4:30pm
 - Lixing Zheng <lzheng26@ncsu.edu>
 - Lohith Senthilkumar lpanjal@ncsu.edu
 -  Tahreem Yasir tyasir@ncsu.edu
+-  Ejaz Ahamed Shaik eshaik@ncsu.edu
