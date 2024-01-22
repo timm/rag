@@ -26,3 +26,4 @@ Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman
 https://arxiv.org/pdf/2303.09014.pdf
 - [ ] Shinn, N., Cassano, F., Gopinath, A., Narasimhan, K. R., & Yao, S. (2023, November). Reflexion: Language agents with verbal reinforcement learning. In Thirty-seventh Conference on Neural Information Processing Systems.
 https://arxiv.org/pdf/2303.11366.pdf
+- [ ] Evan et al. (2024). Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training  https://arxiv.org/pdf/2401.05566
